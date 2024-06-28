@@ -1,0 +1,13 @@
+name: shiny_copa_america
+title: shiny_copa_america
+username: estacionr
+account: estacionr
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12242582
+bundleId: 8800249
+url: https://estacionr.shinyapps.io/shiny_copa_america/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: calendario.R
